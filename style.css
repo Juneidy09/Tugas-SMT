@@ -1,0 +1,917 @@
+.web-e-commerce {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.web-e-commerce .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 3899px;
+    position: relative;
+}
+
+.web-e-commerce .frame {
+    position: absolute;
+    width: 1440px;
+    height: 560px;
+    top: 296px;
+    left: 0;
+}
+
+.web-e-commerce .frame-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 32px 477px;
+    position: absolute;
+    top: 176px;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.web-e-commerce .frame-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 320px;
+    padding: 16px 40px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #f4f4f4;
+    border-radius: 48px;
+}
+
+.web-e-commerce .text-wrapper {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #858585;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .img {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+
+.web-e-commerce .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 40px;
+    position: absolute;
+    top: 936px;
+    left: 144px;
+}
+
+.web-e-commerce .frame-4 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.web-e-commerce .rectangle {
+    position: relative;
+    width: 1132px;
+    height: 104px;
+    background-color: #f4f4f4;
+    border-radius: 184px;
+}
+
+.web-e-commerce .p {
+    position: absolute;
+    top: 36px;
+    left: 40px;
+    font-family: "Neco-Bold", Helvetica;
+    font-weight: 400;
+    color: #1f3e97;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .span {
+    font-family: "Neco-BoldItalic", Helvetica;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.web-e-commerce .text-wrapper-2 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.web-e-commerce .frame-5 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 32px;
+    left: 988px;
+}
+
+.web-e-commerce .frame-6 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 32px;
+    left: 1052px;
+}
+
+.web-e-commerce .frame-7 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 18px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.web-e-commerce .frame-8 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24.24px;
+    padding: 12.12px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 6.06px;
+    border: 1.51px solid;
+    border-color: #f4f4f4;
+}
+
+.web-e-commerce .img-2 {
+    position: relative;
+    width: 242.35px;
+    height: 242.35px;
+    object-fit: cover;
+}
+
+.web-e-commerce .frame-9 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12.12px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.web-e-commerce .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.76px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 18.2px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12.1px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .frame-10 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 6.06px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.web-e-commerce .rectangle-2 {
+    position: relative;
+    width: 278.71px;
+    height: 417.3px;
+    background-color: #f4f4f4;
+    border-radius: 6.33px;
+}
+
+.web-e-commerce .element {
+    position: absolute;
+    width: 254px;
+    height: 254px;
+    top: 11px;
+    left: 12px;
+    object-fit: cover;
+}
+
+.web-e-commerce .div-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6.06px;
+    padding: 6.06px 12.12px;
+    position: absolute;
+    top: 374px;
+    left: 184px;
+    background-color: #1f3e97;
+    border-radius: 30.29px;
+}
+
+.web-e-commerce .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.76px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 10.6px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .frame-11 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12.12px;
+    position: absolute;
+    top: 284px;
+    left: 18px;
+}
+
+.web-e-commerce .frame-12 {
+    display: inline-flex;
+    align-items: center;
+    gap: 6.06px;
+    position: absolute;
+    top: 381px;
+    left: 18px;
+}
+
+.web-e-commerce .ph-star-fill {
+    position: relative;
+    width: 18.18px;
+    height: 18.18px;
+}
+
+.web-e-commerce .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12.1px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .frame-13 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 361.26px;
+    align-items: flex-start;
+    gap: 24.24px;
+    padding: 12.12px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 6.06px;
+    border: 1.51px solid;
+    border-color: #f4f4f4;
+}
+
+.web-e-commerce .frame-14 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12.12px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-bottom: -0.68px;
+}
+
+.web-e-commerce .frame-15 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 8px;
+    position: absolute;
+    top: 2132px;
+    left: 145px;
+}
+
+.web-e-commerce .ceaa-a {
+    position: relative;
+    width: 1132px;
+    height: 1132px;
+    object-fit: cover;
+}
+
+.web-e-commerce .frame-16 {
+    display: inline-flex;
+    align-items: center;
+    gap: 792px;
+    position: absolute;
+    top: 1036px;
+    left: 40px;
+}
+
+.web-e-commerce .frame-17 {
+    gap: 8px;
+    padding: 16px 32px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffb700;
+    border-radius: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.web-e-commerce .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.web-e-commerce .teenyicons-right {
+    position: relative;
+    width: 16px;
+    height: 16px;
+}
+
+.web-e-commerce .frame-18 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.web-e-commerce .ellipse {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    background-color: #d9d9d9;
+    border-radius: 8px;
+}
+
+.web-e-commerce .ellipse-2 {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.web-e-commerce .frame-19 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 40px;
+    position: absolute;
+    top: 1522px;
+    left: 144px;
+}
+
+.web-e-commerce .frame-20 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 31px;
+    left: 1052px;
+}
+
+.web-e-commerce .rectangle-3 {
+    position: relative;
+    width: 278.71px;
+    height: 442.29px;
+    background-color: #f4f4f4;
+    border-radius: 6.06px;
+}
+
+.web-e-commerce .frame-21 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 6.36px;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+}
+
+.web-e-commerce .aaf-ae {
+    position: relative;
+    width: 254.47px;
+    height: 254.47px;
+    object-fit: cover;
+}
+
+.web-e-commerce .frame-22 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6.36px;
+    padding: 6.36px 12.72px;
+    position: absolute;
+    top: 13px;
+    left: 165px;
+    background-color: #ffb700;
+    border-radius: 25.45px;
+}
+
+.web-e-commerce .text-wrapper-8 {
+    margin-top: -0.8px;
+    font-size: 11.1px;
+    white-space: nowrap;
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .frame-23 {
+    gap: 6.06px;
+    padding: 6.06px 12.12px;
+    position: absolute;
+    top: 399px;
+    left: 184px;
+    background-color: #1f3e97;
+    border-radius: 30.29px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.web-e-commerce .frame-24 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12.12px;
+    position: absolute;
+    top: 285px;
+    left: 18px;
+}
+
+.web-e-commerce .frame-25 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6.06px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.web-e-commerce .text-wrapper-9 {
+    margin-top: -0.76px;
+    color: #858585;
+    font-size: 12.1px;
+    text-decoration: line-through;
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .text-wrapper-10 {
+    color: #000000;
+    font-size: 15.1px;
+    white-space: nowrap;
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .frame-26 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6.06px;
+    position: absolute;
+    top: 406px;
+    left: 18px;
+}
+
+.web-e-commerce .frame-27 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6.06px;
+    padding: 6.06px 12.12px;
+    position: absolute;
+    top: 12px;
+    left: 158px;
+    background-color: #ffb700;
+    border-radius: 24.24px;
+}
+
+.web-e-commerce .text-wrapper-11 {
+    margin-top: -0.76px;
+    font-size: 10.6px;
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 555px;
+    top: 3344px;
+    left: 0;
+}
+
+.web-e-commerce .bi-r-circle {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 485px;
+    left: 266px;
+}
+
+.web-e-commerce .frame-28 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.web-e-commerce .rectangle-4 {
+    position: relative;
+    width: 1440px;
+    height: 555px;
+    background-color: #1f3e97;
+}
+
+.web-e-commerce .frame-29 {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 655px;
+    position: absolute;
+    top: 80px;
+    left: 144px;
+}
+
+.web-e-commerce .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    color: #ffffff;
+    font-family: "Pacifico-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .frame-30 {
+    display: inline-flex;
+    align-items: center;
+    gap: 80px;
+    padding: 16px 32px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #f4f4f4;
+    border-radius: 48px;
+}
+
+.web-e-commerce .text-wrapper-13 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #464646;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .frame-31 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 160px;
+    position: absolute;
+    top: 230px;
+    left: 164px;
+}
+
+.web-e-commerce .frame-32 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.web-e-commerce .text-wrapper-14 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .frame-33 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.web-e-commerce .text-wrapper-15 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+}
+
+.web-e-commerce .text-wrapper-16 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+}
+
+.web-e-commerce .frame-34 {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.web-e-commerce .frame-35 {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.web-e-commerce .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.web-e-commerce .text-wrapper-18 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.web-e-commerce .frame-36 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: absolute;
+    top: 475px;
+    left: 0;
+}
+
+.web-e-commerce .rectangle-5 {
+    position: relative;
+    width: 1440px;
+    height: 80px;
+    background-color: #18378f;
+}
+
+.web-e-commerce .frame-37 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 8px;
+    position: absolute;
+    top: 23px;
+    left: 584px;
+}
+
+.web-e-commerce .text-wrapper-19 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .frame-38 {
+    position: absolute;
+    width: 1440px;
+    height: 120px;
+    top: 56px;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.web-e-commerce .frame-39 {
+    position: absolute;
+    width: 127px;
+    height: 70px;
+    top: 25px;
+    left: 144px;
+}
+
+.web-e-commerce .text-wrapper-20 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    color: #1f3e97;
+    font-family: "Pacifico-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .bi-r-circle-2 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 24px;
+    left: 119px;
+}
+
+.web-e-commerce .frame-40 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 16px;
+    position: absolute;
+    top: 43px;
+    left: 526px;
+}
+
+.web-e-commerce .frame-41 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.web-e-commerce .text-wrapper-21 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #1f3e97;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .text-wrapper-22 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #858585;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .frame-42 {
+    position: absolute;
+    width: 104px;
+    height: 24px;
+    top: 48px;
+    left: 969px;
+}
+
+.web-e-commerce .frame-43 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 16px;
+    position: absolute;
+    top: 40px;
+    left: 1105px;
+}
+
+.web-e-commerce .frame-44 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 16px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #1f3e97;
+    border-radius: 71px;
+}
+
+.web-e-commerce .text-wrapper-23 {
+    color: #ffffff;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .frame-45 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 16px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 71px;
+    border: 1px solid;
+    border-color: #1f3e97;
+}
+
+.web-e-commerce .text-wrapper-24 {
+    color: #1f3e97;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.web-e-commerce .rectangle-6 {
+    position: absolute;
+    width: 1440px;
+    height: 56px;
+    top: 0;
+    left: 0;
+    background-color: #f0f0f0;
+}
